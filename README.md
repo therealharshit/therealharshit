@@ -1,4 +1,3 @@
 - 👋 Hi, I’m Harshit Verma
-- 👀 I’m interested in Computer Science
-- 🌱 I’m currently learning  Development
--    This is my first commit in readme
+- 👀 I’m interested in Computer Science 
+- 🌱 I’m currently learning Development
