@@ -24,8 +24,6 @@
   <img width="15" />
   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/java/java-plain.svg" height="30" alt="java logo"  />
   <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
-  <img width="15" />
   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/git/git-plain.svg" height="30" alt="git logo"  />
   <img width="15" />
   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="30" alt="aws logo"  />
