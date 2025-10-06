@@ -1,36 +1,34 @@
-<h1 align="center">Hi I am HARSHIT VERMA</h1>
-<h2 align="center">A passionate Developer & Learner💻</h3>
-<h4 align="center">I am a Tech freak and love to learn new things. My interest lies in Software Development and Open-Source Contribution! </h4>
+<h1 align="center">Hi there, I'm Harshit Verma 👋</h1>
+<h3 align="center">A passionate Developer & Learner</h1>
+<p align="center">I am a Tech freak and love to learn new things. My interest lies in Software Development and Open-Source Contribution!</p>
 
-## Tech Stack
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="35" alt="javascript logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="35" alt="typescript logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="35" alt="react logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="35"alt="nodejs logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="35" alt="tailwind css logo"  />
-  <img width="15" />
-  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/tailwindcss/tailwindcss-original.svg" width="35" alt="react logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="35" alt="mongodb logo"  />
-  <img width="15" />
-  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/c/c-plain.svg" width="35" alt="c logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="35" alt="python logo"  />
-  <img width="15" />
-  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/java/java-plain.svg" width="35" alt="java logo"  />
-  <img width="15" />
-  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/git/git-plain.svg" width="35" alt="git logo"  />
-  <img width="15" />
-  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="35" alt="aws logo"  />
-  <img width="15" />
-  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/docker/docker-plain.svg" width="35" alt="docker logo"  />
-  <img width="15" />
-</div>
+## 🛠️ Tech Stack
+
+**Languages:**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
+
+**Frameworks & Tools:**
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat&logo=express&logoColor=white)
+
+**AI/ML:**  
+![LangChain](https://img.shields.io/badge/LangChain-121D33?style=flat&logo=chainlink&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/🤗_Hugging_Face-FFD21E?style=flat)
+![OpenAI](https://img.shields.io/badge/OpenAI-74aa9c?style=flat&logo=openai&logoColor=white)
+
+**Cloud & Databases:**  
+![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
+
+---
 
 
 ## Hactoberfest 2024 Badges
