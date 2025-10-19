@@ -17,7 +17,7 @@
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat&logo=express&logoColor=white)
 
-**AI/ML:**  
+**AI/ML & LLMs tools:**  
 ![LangChain](https://img.shields.io/badge/LangChain-121D33?style=flat&logo=chainlink&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/🤗_Hugging_Face-FFD21E?style=flat)
 ![OpenAI](https://img.shields.io/badge/OpenAI-74aa9c?style=flat&logo=openai&logoColor=white)
@@ -31,7 +31,7 @@
 ---
 
 
-## Hactoberfest 2024 Badges
+## Hactoberfest Badges
 
 [![An image of @therealharshit's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/therealharshit)](https://holopin.io/@therealharshit)
 
