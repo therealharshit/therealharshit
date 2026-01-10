@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Harshit Verma 👋</h1>
-<h3 align="center">A passionate Software Developer</h1>
-<p align="center">I am a Tech freak and love to learn new things. My interest lies in Software Development and Open-Source Contribution!</p>
+<h3 align="center">Software Engineer</h1>
+<p align="center">CS undergraduate building software, developing AI agents and tools, and contributing to open source projects used at scale</p>
 
 ## 🛠️ Tech Stack
 
