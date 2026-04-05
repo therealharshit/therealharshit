@@ -30,12 +30,3 @@
 **Container & Cloud:**  
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
-
----
-
-
-## Hactoberfest Badges
-
-[![An image of @therealharshit's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/therealharshit)](https://holopin.io/@therealharshit)
-
-
