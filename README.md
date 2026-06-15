@@ -4,9 +4,8 @@
       Software Engineer / Open Source Contributor
     </td>
     <td align="right">
-      Learning fast, shipping faster.
+      Learning fast, shipping faster
     </td>
-
   </tr>
 </table>
 
@@ -27,10 +26,10 @@ Building AI agents, developer tools, and open-source software.
 - Open source, AI infrastructure, developer tooling, and agentic workflows
 
 **Projects**
-- NaturalQL
-- docMind
-- Investor API
-- Pippy Debugger
+- NaturalQL: An AI Assistant for Natural Language Database Interaction
+- docMind: AI-Powered Intelligent Document Ingestion System
+- Investor API: FastAPI microservice for investor copilot
+- Pippy Debugger: LLM-Powered debugger for Pippy
 
 **Currently**
 - Building AI-powered developer tools and database copilots
