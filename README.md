@@ -30,7 +30,3 @@ Building AI agents, developer tools, and open-source software.
 - docMind: AI-Powered Intelligent Document Ingestion System
 - Investor API: FastAPI microservice for investor copilot
 - Pippy Debugger: LLM-Powered debugger for Pippy
-
-**Currently**
-- Building AI-powered developer tools and database copilots
-- Contributing to open source
