@@ -16,8 +16,8 @@ Building AI agents, developer tools, and open-source software.
 - C4GT'25 DMP @sugarlabs
 
 **Contributions**
-- 50+ merged OSS PRs across Sugar Labs, stdlib-js, Manufact, and community projects
-- Contributor to mcp-use (10k+ stars), stdlib-js (5.8k+ stars), Sugar-AI, and Music Blocks
+- 50+ merged OSS PRs across Kubernetes-sigs, Manufact (YC S25), SugarLabs, Stdlib and community projects
+- Contributor to mcp-use (10k+ stars), stdlib-js (5.8k+ stars), Headlamp, Sugar-AI, and Music Blocks
 - Built AI-powered debugging systems serving 50,000+ learners worldwide
 
 **Skills**
