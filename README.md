@@ -26,7 +26,7 @@ Building AI agents, developer tools, and open-source software.
 - Open source, AI infrastructure, developer tooling, and agentic workflows
 
 **Projects**
-- NaturalQL: An AI Assistant for Natural Language Database Interaction
+- NaturalQL: An AI Agent for Natural Language Database Interaction
 - docMind: AI-Powered Intelligent Document Ingestion System
 - Investor API: FastAPI microservice for investor copilot
 - Pippy Debugger: LLM-Powered debugger for Pippy
